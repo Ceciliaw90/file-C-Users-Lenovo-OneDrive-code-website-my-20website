@@ -1,0 +1,89 @@
+/* Website Styles */
+
+* {
+  font-size: 100%;
+  margin: 0;
+  line-height: 1;
+  /* border: 1px solid red; */
+}
+
+body {
+  background-color: grey;
+  color: black;
+  
+}body {
+  background-color: grey;
+  color: black;
+  font-family: Helvetica;
+  font-size: 16px;
+  margin: 50px;
+}
+
+body {
+  background-color: grey;
+  color: black;
+}body {
+  font-family: 'Lato', Arial, sans-serif;
+  background-color: slategray;
+  color: white;
+}
+body {
+  background: lightblue;
+  color: black;
+  font-family: 'jacquard 24 charted';
+  font-size: 14px;
+}p {
+  color: red;
+  color: blue;
+}
+
+p {
+  color: green;
+}
+ 
+h1{
+  color: red;
+}
+  
+
+
+h1{
+  font-family: 'mulish';
+}
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 18px;
+}
+h1 {
+  font-weight: normal;
+}
+
+h2 {
+  font-weight: 900;
+}
+h1, h2, h3 {
+  font-weight: bold;
+  font-style: italic;
+}
+* {
+  font-size: 100%;
+  border: 1px solid red;
+}
+p {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-right: 30px;
+  margin-left: 0;
+}
+
+
+  
+
+
